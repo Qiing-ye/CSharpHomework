@@ -1,0 +1,13 @@
+C:\Users\jiaxy\source\repos\ch02\Jiaogu\bin\Debug\Jiaogu.exe.config
+C:\Users\jiaxy\source\repos\ch02\Jiaogu\bin\Debug\Jiaogu.exe
+C:\Users\jiaxy\source\repos\ch02\Jiaogu\bin\Debug\Jiaogu.pdb
+C:\Users\jiaxy\source\repos\ch02\Jiaogu\obj\Debug\Jiaogu.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\ch02\Jiaogu\obj\Debug\Jiaogu.exe
+C:\Users\jiaxy\source\repos\ch02\Jiaogu\obj\Debug\Jiaogu.pdb
+G:\学习2\软件构造基础\第二讲-示例代码\Jiaogu\bin\Debug\Jiaogu.exe.config
+G:\学习2\软件构造基础\第二讲-示例代码\Jiaogu\bin\Debug\Jiaogu.exe
+G:\学习2\软件构造基础\第二讲-示例代码\Jiaogu\bin\Debug\Jiaogu.pdb
+G:\学习2\软件构造基础\第二讲-示例代码\Jiaogu\obj\Debug\Jiaogu.csprojAssemblyReference.cache
+G:\学习2\软件构造基础\第二讲-示例代码\Jiaogu\obj\Debug\Jiaogu.csproj.CoreCompileInputs.cache
+G:\学习2\软件构造基础\第二讲-示例代码\Jiaogu\obj\Debug\Jiaogu.exe
+G:\学习2\软件构造基础\第二讲-示例代码\Jiaogu\obj\Debug\Jiaogu.pdb

@@ -1,0 +1,7 @@
+C:\Users\jiaxy\source\repos\ch02\GradeLevel\bin\Debug\GradeLevel.exe.config
+C:\Users\jiaxy\source\repos\ch02\GradeLevel\bin\Debug\GradeLevel.exe
+C:\Users\jiaxy\source\repos\ch02\GradeLevel\bin\Debug\GradeLevel.pdb
+C:\Users\jiaxy\source\repos\ch02\GradeLevel\obj\Debug\GradeLevel.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\ch02\GradeLevel\obj\Debug\GradeLevel.exe
+C:\Users\jiaxy\source\repos\ch02\GradeLevel\obj\Debug\GradeLevel.pdb
+C:\Users\jiaxy\source\repos\ch02\GradeLevel\obj\Debug\GradeLevel.csprojAssemblyReference.cache

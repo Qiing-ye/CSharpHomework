@@ -1,0 +1,14 @@
+C:\Users\jiaxy\source\repos\ch02\LeapYear\bin\Debug\LeapYear.exe.config
+C:\Users\jiaxy\source\repos\ch02\LeapYear\bin\Debug\LeapYear.exe
+C:\Users\jiaxy\source\repos\ch02\LeapYear\bin\Debug\LeapYear.pdb
+C:\Users\jiaxy\source\repos\ch02\LeapYear\obj\Debug\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\ch02\LeapYear\obj\Debug\LeapYear.exe
+C:\Users\jiaxy\source\repos\ch02\LeapYear\obj\Debug\LeapYear.pdb
+C:\Users\jiaxy\source\repos\ch02\LeapYear\obj\Debug\LeapYear.csprojAssemblyReference.cache
+G:\学习2\软件构造基础\第二讲-示例代码\LeapYear\bin\Debug\LeapYear.exe.config
+G:\学习2\软件构造基础\第二讲-示例代码\LeapYear\bin\Debug\LeapYear.exe
+G:\学习2\软件构造基础\第二讲-示例代码\LeapYear\bin\Debug\LeapYear.pdb
+G:\学习2\软件构造基础\第二讲-示例代码\LeapYear\obj\Debug\LeapYear.csprojAssemblyReference.cache
+G:\学习2\软件构造基础\第二讲-示例代码\LeapYear\obj\Debug\LeapYear.csproj.CoreCompileInputs.cache
+G:\学习2\软件构造基础\第二讲-示例代码\LeapYear\obj\Debug\LeapYear.exe
+G:\学习2\软件构造基础\第二讲-示例代码\LeapYear\obj\Debug\LeapYear.pdb

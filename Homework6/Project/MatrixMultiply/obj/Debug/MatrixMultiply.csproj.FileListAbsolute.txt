@@ -1,0 +1,14 @@
+C:\Users\jiaxy\source\repos\ch02\MatrixMultiply\bin\Debug\MatrixMultiply.exe.config
+C:\Users\jiaxy\source\repos\ch02\MatrixMultiply\bin\Debug\MatrixMultiply.exe
+C:\Users\jiaxy\source\repos\ch02\MatrixMultiply\bin\Debug\MatrixMultiply.pdb
+C:\Users\jiaxy\source\repos\ch02\MatrixMultiply\obj\Debug\MatrixMultiply.csprojAssemblyReference.cache
+C:\Users\jiaxy\source\repos\ch02\MatrixMultiply\obj\Debug\MatrixMultiply.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\ch02\MatrixMultiply\obj\Debug\MatrixMultiply.exe
+C:\Users\jiaxy\source\repos\ch02\MatrixMultiply\obj\Debug\MatrixMultiply.pdb
+G:\学习2\软件构造基础\第二讲-示例代码\MatrixMultiply\bin\Debug\MatrixMultiply.exe.config
+G:\学习2\软件构造基础\第二讲-示例代码\MatrixMultiply\bin\Debug\MatrixMultiply.exe
+G:\学习2\软件构造基础\第二讲-示例代码\MatrixMultiply\bin\Debug\MatrixMultiply.pdb
+G:\学习2\软件构造基础\第二讲-示例代码\MatrixMultiply\obj\Debug\MatrixMultiply.csprojAssemblyReference.cache
+G:\学习2\软件构造基础\第二讲-示例代码\MatrixMultiply\obj\Debug\MatrixMultiply.csproj.CoreCompileInputs.cache
+G:\学习2\软件构造基础\第二讲-示例代码\MatrixMultiply\obj\Debug\MatrixMultiply.exe
+G:\学习2\软件构造基础\第二讲-示例代码\MatrixMultiply\obj\Debug\MatrixMultiply.pdb

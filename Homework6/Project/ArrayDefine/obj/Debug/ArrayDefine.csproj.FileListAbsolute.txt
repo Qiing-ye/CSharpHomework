@@ -1,0 +1,14 @@
+C:\Users\jiaxy\source\repos\ch02\ArrayDefine\bin\Debug\ArrayDefine.exe.config
+C:\Users\jiaxy\source\repos\ch02\ArrayDefine\bin\Debug\ArrayDefine.exe
+C:\Users\jiaxy\source\repos\ch02\ArrayDefine\bin\Debug\ArrayDefine.pdb
+C:\Users\jiaxy\source\repos\ch02\ArrayDefine\obj\Debug\ArrayDefine.csprojAssemblyReference.cache
+C:\Users\jiaxy\source\repos\ch02\ArrayDefine\obj\Debug\ArrayDefine.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\ch02\ArrayDefine\obj\Debug\ArrayDefine.exe
+C:\Users\jiaxy\source\repos\ch02\ArrayDefine\obj\Debug\ArrayDefine.pdb
+G:\学习2\软件构造基础\第二讲-示例代码\ArrayDefine\bin\Debug\ArrayDefine.exe.config
+G:\学习2\软件构造基础\第二讲-示例代码\ArrayDefine\bin\Debug\ArrayDefine.exe
+G:\学习2\软件构造基础\第二讲-示例代码\ArrayDefine\bin\Debug\ArrayDefine.pdb
+G:\学习2\软件构造基础\第二讲-示例代码\ArrayDefine\obj\Debug\ArrayDefine.csprojAssemblyReference.cache
+G:\学习2\软件构造基础\第二讲-示例代码\ArrayDefine\obj\Debug\ArrayDefine.csproj.CoreCompileInputs.cache
+G:\学习2\软件构造基础\第二讲-示例代码\ArrayDefine\obj\Debug\ArrayDefine.exe
+G:\学习2\软件构造基础\第二讲-示例代码\ArrayDefine\obj\Debug\ArrayDefine.pdb

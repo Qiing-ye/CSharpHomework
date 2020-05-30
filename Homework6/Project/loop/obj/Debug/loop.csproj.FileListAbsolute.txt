@@ -1,0 +1,14 @@
+C:\Users\jiaxy\source\repos\ch02\loop\bin\Debug\loop.exe.config
+C:\Users\jiaxy\source\repos\ch02\loop\bin\Debug\loop.exe
+C:\Users\jiaxy\source\repos\ch02\loop\bin\Debug\loop.pdb
+C:\Users\jiaxy\source\repos\ch02\loop\obj\Debug\loop.csprojAssemblyReference.cache
+C:\Users\jiaxy\source\repos\ch02\loop\obj\Debug\loop.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\ch02\loop\obj\Debug\loop.exe
+C:\Users\jiaxy\source\repos\ch02\loop\obj\Debug\loop.pdb
+G:\学习2\软件构造基础\第二讲-示例代码\loop\bin\Debug\loop.exe.config
+G:\学习2\软件构造基础\第二讲-示例代码\loop\bin\Debug\loop.exe
+G:\学习2\软件构造基础\第二讲-示例代码\loop\bin\Debug\loop.pdb
+G:\学习2\软件构造基础\第二讲-示例代码\loop\obj\Debug\loop.csprojAssemblyReference.cache
+G:\学习2\软件构造基础\第二讲-示例代码\loop\obj\Debug\loop.csproj.CoreCompileInputs.cache
+G:\学习2\软件构造基础\第二讲-示例代码\loop\obj\Debug\loop.exe
+G:\学习2\软件构造基础\第二讲-示例代码\loop\obj\Debug\loop.pdb

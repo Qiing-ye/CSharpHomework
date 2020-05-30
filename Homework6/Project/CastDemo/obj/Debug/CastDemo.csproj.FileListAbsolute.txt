@@ -1,0 +1,14 @@
+C:\Users\jiaxy\source\repos\ch02\CastDemo\bin\Debug\CastDemo.exe.config
+C:\Users\jiaxy\source\repos\ch02\CastDemo\bin\Debug\CastDemo.exe
+C:\Users\jiaxy\source\repos\ch02\CastDemo\bin\Debug\CastDemo.pdb
+C:\Users\jiaxy\source\repos\ch02\CastDemo\obj\Debug\CastDemo.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\ch02\CastDemo\obj\Debug\CastDemo.exe
+C:\Users\jiaxy\source\repos\ch02\CastDemo\obj\Debug\CastDemo.pdb
+C:\Users\jiaxy\source\repos\ch02\CastDemo\obj\Debug\CastDemo.csprojAssemblyReference.cache
+G:\学习2\软件构造基础\第二讲-示例代码\CastDemo\bin\Debug\CastDemo.exe.config
+G:\学习2\软件构造基础\第二讲-示例代码\CastDemo\bin\Debug\CastDemo.exe
+G:\学习2\软件构造基础\第二讲-示例代码\CastDemo\bin\Debug\CastDemo.pdb
+G:\学习2\软件构造基础\第二讲-示例代码\CastDemo\obj\Debug\CastDemo.csprojAssemblyReference.cache
+G:\学习2\软件构造基础\第二讲-示例代码\CastDemo\obj\Debug\CastDemo.csproj.CoreCompileInputs.cache
+G:\学习2\软件构造基础\第二讲-示例代码\CastDemo\obj\Debug\CastDemo.exe
+G:\学习2\软件构造基础\第二讲-示例代码\CastDemo\obj\Debug\CastDemo.pdb

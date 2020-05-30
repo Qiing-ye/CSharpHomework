@@ -1,0 +1,14 @@
+C:\Users\jiaxy\source\repos\ch02\ParseDemo\bin\Debug\ParseDemo.exe.config
+C:\Users\jiaxy\source\repos\ch02\ParseDemo\bin\Debug\ParseDemo.exe
+C:\Users\jiaxy\source\repos\ch02\ParseDemo\bin\Debug\ParseDemo.pdb
+C:\Users\jiaxy\source\repos\ch02\ParseDemo\obj\Debug\ParseDemo.csprojAssemblyReference.cache
+C:\Users\jiaxy\source\repos\ch02\ParseDemo\obj\Debug\ParseDemo.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\ch02\ParseDemo\obj\Debug\ParseDemo.exe
+C:\Users\jiaxy\source\repos\ch02\ParseDemo\obj\Debug\ParseDemo.pdb
+G:\学习2\软件构造基础\第二讲-示例代码\ParseDemo\bin\Debug\ParseDemo.exe.config
+G:\学习2\软件构造基础\第二讲-示例代码\ParseDemo\bin\Debug\ParseDemo.exe
+G:\学习2\软件构造基础\第二讲-示例代码\ParseDemo\bin\Debug\ParseDemo.pdb
+G:\学习2\软件构造基础\第二讲-示例代码\ParseDemo\obj\Debug\ParseDemo.csprojAssemblyReference.cache
+G:\学习2\软件构造基础\第二讲-示例代码\ParseDemo\obj\Debug\ParseDemo.csproj.CoreCompileInputs.cache
+G:\学习2\软件构造基础\第二讲-示例代码\ParseDemo\obj\Debug\ParseDemo.exe
+G:\学习2\软件构造基础\第二讲-示例代码\ParseDemo\obj\Debug\ParseDemo.pdb

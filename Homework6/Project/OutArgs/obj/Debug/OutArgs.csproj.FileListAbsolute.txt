@@ -1,0 +1,9 @@
+C:\Users\jiaxy\source\repos\ch02\OutArgs\bin\Debug\OutArgs.exe.config
+C:\Users\jiaxy\source\repos\ch02\OutArgs\bin\Debug\OutArgs.exe
+C:\Users\jiaxy\source\repos\ch02\OutArgs\bin\Debug\OutArgs.pdb
+C:\Users\jiaxy\source\repos\ch02\OutArgs\obj\Debug\OutArgs.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\ch02\OutArgs\obj\Debug\OutArgs.exe
+C:\Users\jiaxy\source\repos\ch02\OutArgs\obj\Debug\OutArgs.pdb
+G:\学习2\软件构造基础\第二讲-示例代码\OutArgs\obj\Debug\OutArgs.csproj.CoreCompileInputs.cache
+G:\学习2\软件构造基础\第二讲-示例代码\OutArgs\obj\Debug\OutArgs.exe
+G:\学习2\软件构造基础\第二讲-示例代码\OutArgs\obj\Debug\OutArgs.pdb

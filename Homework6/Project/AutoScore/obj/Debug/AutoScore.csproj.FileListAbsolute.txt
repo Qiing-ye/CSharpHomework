@@ -1,0 +1,17 @@
+C:\Users\jiaxy\source\repos\ch02\AutoScore\bin\Debug\AutoScore.exe
+C:\Users\jiaxy\source\repos\ch02\AutoScore\bin\Debug\AutoScore.pdb
+C:\Users\jiaxy\source\repos\ch02\AutoScore\obj\Debug\AutoScore.Form1.resources
+C:\Users\jiaxy\source\repos\ch02\AutoScore\obj\Debug\AutoScore.csproj.GenerateResource.cache
+C:\Users\jiaxy\source\repos\ch02\AutoScore\obj\Debug\AutoScore.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\ch02\AutoScore\obj\Debug\AutoScore.exe
+C:\Users\jiaxy\source\repos\ch02\AutoScore\obj\Debug\AutoScore.pdb
+C:\Users\jiaxy\source\repos\ch02\AutoScore\obj\Debug\AutoScore.csprojAssemblyReference.cache
+G:\学习2\软件构造基础\第二讲-示例代码\AutoScore\bin\Debug\AutoScore.exe.config
+G:\学习2\软件构造基础\第二讲-示例代码\AutoScore\bin\Debug\AutoScore.exe
+G:\学习2\软件构造基础\第二讲-示例代码\AutoScore\bin\Debug\AutoScore.pdb
+G:\学习2\软件构造基础\第二讲-示例代码\AutoScore\obj\Debug\AutoScore.csprojAssemblyReference.cache
+G:\学习2\软件构造基础\第二讲-示例代码\AutoScore\obj\Debug\AutoScore.Form1.resources
+G:\学习2\软件构造基础\第二讲-示例代码\AutoScore\obj\Debug\AutoScore.csproj.GenerateResource.cache
+G:\学习2\软件构造基础\第二讲-示例代码\AutoScore\obj\Debug\AutoScore.csproj.CoreCompileInputs.cache
+G:\学习2\软件构造基础\第二讲-示例代码\AutoScore\obj\Debug\AutoScore.exe
+G:\学习2\软件构造基础\第二讲-示例代码\AutoScore\obj\Debug\AutoScore.pdb

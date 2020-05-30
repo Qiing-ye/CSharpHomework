@@ -1,0 +1,14 @@
+C:\Users\jiaxy\source\repos\ch02\RefArgs\bin\Debug\RefArgs.exe.config
+C:\Users\jiaxy\source\repos\ch02\RefArgs\bin\Debug\RefArgs.exe
+C:\Users\jiaxy\source\repos\ch02\RefArgs\bin\Debug\RefArgs.pdb
+C:\Users\jiaxy\source\repos\ch02\RefArgs\obj\Debug\RefArgs.csprojAssemblyReference.cache
+C:\Users\jiaxy\source\repos\ch02\RefArgs\obj\Debug\RefArgs.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\ch02\RefArgs\obj\Debug\RefArgs.exe
+C:\Users\jiaxy\source\repos\ch02\RefArgs\obj\Debug\RefArgs.pdb
+G:\学习2\软件构造基础\第二讲-示例代码\RefArgs\bin\Debug\RefArgs.exe.config
+G:\学习2\软件构造基础\第二讲-示例代码\RefArgs\bin\Debug\RefArgs.exe
+G:\学习2\软件构造基础\第二讲-示例代码\RefArgs\bin\Debug\RefArgs.pdb
+G:\学习2\软件构造基础\第二讲-示例代码\RefArgs\obj\Debug\RefArgs.csprojAssemblyReference.cache
+G:\学习2\软件构造基础\第二讲-示例代码\RefArgs\obj\Debug\RefArgs.csproj.CoreCompileInputs.cache
+G:\学习2\软件构造基础\第二讲-示例代码\RefArgs\obj\Debug\RefArgs.exe
+G:\学习2\软件构造基础\第二讲-示例代码\RefArgs\obj\Debug\RefArgs.pdb

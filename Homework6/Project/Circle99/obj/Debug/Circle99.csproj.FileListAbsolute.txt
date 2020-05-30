@@ -1,0 +1,17 @@
+C:\Users\jiaxy\source\repos\ch02\Circle99\bin\Debug\Circle99.exe
+C:\Users\jiaxy\source\repos\ch02\Circle99\bin\Debug\Circle99.pdb
+C:\Users\jiaxy\source\repos\ch02\Circle99\obj\Debug\Circle99.Form1.resources
+C:\Users\jiaxy\source\repos\ch02\Circle99\obj\Debug\Circle99.csproj.GenerateResource.cache
+C:\Users\jiaxy\source\repos\ch02\Circle99\obj\Debug\Circle99.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\ch02\Circle99\obj\Debug\Circle99.exe
+C:\Users\jiaxy\source\repos\ch02\Circle99\obj\Debug\Circle99.pdb
+C:\Users\jiaxy\source\repos\ch02\Circle99\obj\Debug\Circle99.csprojAssemblyReference.cache
+G:\学习2\软件构造基础\第二讲-示例代码\Circle99\bin\Debug\Circle99.exe.config
+G:\学习2\软件构造基础\第二讲-示例代码\Circle99\bin\Debug\Circle99.exe
+G:\学习2\软件构造基础\第二讲-示例代码\Circle99\bin\Debug\Circle99.pdb
+G:\学习2\软件构造基础\第二讲-示例代码\Circle99\obj\Debug\Circle99.csprojAssemblyReference.cache
+G:\学习2\软件构造基础\第二讲-示例代码\Circle99\obj\Debug\Circle99.Form1.resources
+G:\学习2\软件构造基础\第二讲-示例代码\Circle99\obj\Debug\Circle99.csproj.GenerateResource.cache
+G:\学习2\软件构造基础\第二讲-示例代码\Circle99\obj\Debug\Circle99.csproj.CoreCompileInputs.cache
+G:\学习2\软件构造基础\第二讲-示例代码\Circle99\obj\Debug\Circle99.exe
+G:\学习2\软件构造基础\第二讲-示例代码\Circle99\obj\Debug\Circle99.pdb

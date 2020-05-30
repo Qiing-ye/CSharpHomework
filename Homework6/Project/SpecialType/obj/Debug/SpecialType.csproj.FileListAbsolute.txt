@@ -1,0 +1,12 @@
+C:\Users\jiaxy\source\repos\ch02\SpecialType\bin\Debug\SpecialType.exe.config
+C:\Users\jiaxy\source\repos\ch02\SpecialType\bin\Debug\SpecialType.exe
+C:\Users\jiaxy\source\repos\ch02\SpecialType\bin\Debug\SpecialType.pdb
+C:\Users\jiaxy\source\repos\ch02\SpecialType\obj\Debug\SpecialType.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\ch02\SpecialType\obj\Debug\SpecialType.exe
+C:\Users\jiaxy\source\repos\ch02\SpecialType\obj\Debug\SpecialType.pdb
+G:\学习2\软件构造基础\第二讲-示例代码\SpecialType\bin\Debug\SpecialType.exe.config
+G:\学习2\软件构造基础\第二讲-示例代码\SpecialType\bin\Debug\SpecialType.exe
+G:\学习2\软件构造基础\第二讲-示例代码\SpecialType\bin\Debug\SpecialType.pdb
+G:\学习2\软件构造基础\第二讲-示例代码\SpecialType\obj\Debug\SpecialType.csproj.CoreCompileInputs.cache
+G:\学习2\软件构造基础\第二讲-示例代码\SpecialType\obj\Debug\SpecialType.exe
+G:\学习2\软件构造基础\第二讲-示例代码\SpecialType\obj\Debug\SpecialType.pdb

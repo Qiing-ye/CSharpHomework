@@ -1,0 +1,14 @@
+C:\Users\jiaxy\source\repos\ch02\Sum100\bin\Debug\Sum100.exe.config
+C:\Users\jiaxy\source\repos\ch02\Sum100\bin\Debug\Sum100.exe
+C:\Users\jiaxy\source\repos\ch02\Sum100\bin\Debug\Sum100.pdb
+C:\Users\jiaxy\source\repos\ch02\Sum100\obj\Debug\Sum100.csprojAssemblyReference.cache
+C:\Users\jiaxy\source\repos\ch02\Sum100\obj\Debug\Sum100.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\ch02\Sum100\obj\Debug\Sum100.exe
+C:\Users\jiaxy\source\repos\ch02\Sum100\obj\Debug\Sum100.pdb
+G:\学习2\软件构造基础\第二讲-示例代码\Sum100\bin\Debug\Sum100.exe.config
+G:\学习2\软件构造基础\第二讲-示例代码\Sum100\bin\Debug\Sum100.exe
+G:\学习2\软件构造基础\第二讲-示例代码\Sum100\bin\Debug\Sum100.pdb
+G:\学习2\软件构造基础\第二讲-示例代码\Sum100\obj\Debug\Sum100.csprojAssemblyReference.cache
+G:\学习2\软件构造基础\第二讲-示例代码\Sum100\obj\Debug\Sum100.csproj.CoreCompileInputs.cache
+G:\学习2\软件构造基础\第二讲-示例代码\Sum100\obj\Debug\Sum100.exe
+G:\学习2\软件构造基础\第二讲-示例代码\Sum100\obj\Debug\Sum100.pdb

@@ -1,0 +1,12 @@
+C:\Users\jiaxy\source\repos\ch02\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\jiaxy\source\repos\ch02\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\jiaxy\source\repos\ch02\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\jiaxy\source\repos\ch02\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\ch02\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\jiaxy\source\repos\ch02\Fibonacci\obj\Debug\Fibonacci.pdb
+G:\学习2\软件构造基础\第二讲-示例代码\Fibonacci\bin\Debug\Fibonacci.exe.config
+G:\学习2\软件构造基础\第二讲-示例代码\Fibonacci\bin\Debug\Fibonacci.exe
+G:\学习2\软件构造基础\第二讲-示例代码\Fibonacci\bin\Debug\Fibonacci.pdb
+G:\学习2\软件构造基础\第二讲-示例代码\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+G:\学习2\软件构造基础\第二讲-示例代码\Fibonacci\obj\Debug\Fibonacci.exe
+G:\学习2\软件构造基础\第二讲-示例代码\Fibonacci\obj\Debug\Fibonacci.pdb

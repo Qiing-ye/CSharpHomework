@@ -1,0 +1,14 @@
+C:\Users\jiaxy\source\repos\ch02\ArrayUse\bin\Debug\ArrayUse.exe.config
+C:\Users\jiaxy\source\repos\ch02\ArrayUse\bin\Debug\ArrayUse.exe
+C:\Users\jiaxy\source\repos\ch02\ArrayUse\bin\Debug\ArrayUse.pdb
+C:\Users\jiaxy\source\repos\ch02\ArrayUse\obj\Debug\ArrayUse.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\ch02\ArrayUse\obj\Debug\ArrayUse.exe
+C:\Users\jiaxy\source\repos\ch02\ArrayUse\obj\Debug\ArrayUse.pdb
+C:\Users\jiaxy\source\repos\ch02\ArrayUse\obj\Debug\ArrayUse.csprojAssemblyReference.cache
+G:\学习2\软件构造基础\第二讲-示例代码\ArrayUse\bin\Debug\ArrayUse.exe.config
+G:\学习2\软件构造基础\第二讲-示例代码\ArrayUse\bin\Debug\ArrayUse.exe
+G:\学习2\软件构造基础\第二讲-示例代码\ArrayUse\bin\Debug\ArrayUse.pdb
+G:\学习2\软件构造基础\第二讲-示例代码\ArrayUse\obj\Debug\ArrayUse.csprojAssemblyReference.cache
+G:\学习2\软件构造基础\第二讲-示例代码\ArrayUse\obj\Debug\ArrayUse.csproj.CoreCompileInputs.cache
+G:\学习2\软件构造基础\第二讲-示例代码\ArrayUse\obj\Debug\ArrayUse.exe
+G:\学习2\软件构造基础\第二讲-示例代码\ArrayUse\obj\Debug\ArrayUse.pdb

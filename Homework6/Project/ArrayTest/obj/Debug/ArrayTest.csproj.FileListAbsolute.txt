@@ -1,0 +1,7 @@
+C:\Users\jiaxy\source\repos\ch02\ArrayTest\bin\Debug\ArrayTest.exe.config
+C:\Users\jiaxy\source\repos\ch02\ArrayTest\bin\Debug\ArrayTest.exe
+C:\Users\jiaxy\source\repos\ch02\ArrayTest\bin\Debug\ArrayTest.pdb
+C:\Users\jiaxy\source\repos\ch02\ArrayTest\obj\Debug\ArrayTest.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\ch02\ArrayTest\obj\Debug\ArrayTest.exe
+C:\Users\jiaxy\source\repos\ch02\ArrayTest\obj\Debug\ArrayTest.pdb
+C:\Users\jiaxy\source\repos\ch02\ArrayTest\obj\Debug\ArrayTest.csprojAssemblyReference.cache

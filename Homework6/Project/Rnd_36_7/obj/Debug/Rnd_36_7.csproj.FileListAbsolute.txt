@@ -1,0 +1,6 @@
+C:\Users\jiaxy\source\repos\ch02\Rnd_36_7\bin\Debug\Rnd_36_7.exe.config
+C:\Users\jiaxy\source\repos\ch02\Rnd_36_7\bin\Debug\Rnd_36_7.exe
+C:\Users\jiaxy\source\repos\ch02\Rnd_36_7\bin\Debug\Rnd_36_7.pdb
+C:\Users\jiaxy\source\repos\ch02\Rnd_36_7\obj\Debug\Rnd_36_7.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\ch02\Rnd_36_7\obj\Debug\Rnd_36_7.exe
+C:\Users\jiaxy\source\repos\ch02\Rnd_36_7\obj\Debug\Rnd_36_7.pdb

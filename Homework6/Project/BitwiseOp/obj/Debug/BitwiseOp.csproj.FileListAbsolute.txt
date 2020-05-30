@@ -1,0 +1,12 @@
+C:\Users\jiaxy\source\repos\ch02\BitwiseOp\bin\Debug\BitwiseOp.exe.config
+C:\Users\jiaxy\source\repos\ch02\BitwiseOp\bin\Debug\BitwiseOp.exe
+C:\Users\jiaxy\source\repos\ch02\BitwiseOp\bin\Debug\BitwiseOp.pdb
+C:\Users\jiaxy\source\repos\ch02\BitwiseOp\obj\Debug\BitwiseOp.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\ch02\BitwiseOp\obj\Debug\BitwiseOp.exe
+C:\Users\jiaxy\source\repos\ch02\BitwiseOp\obj\Debug\BitwiseOp.pdb
+G:\学习2\软件构造基础\第二讲-示例代码\BitwiseOp\bin\Debug\BitwiseOp.exe.config
+G:\学习2\软件构造基础\第二讲-示例代码\BitwiseOp\bin\Debug\BitwiseOp.exe
+G:\学习2\软件构造基础\第二讲-示例代码\BitwiseOp\bin\Debug\BitwiseOp.pdb
+G:\学习2\软件构造基础\第二讲-示例代码\BitwiseOp\obj\Debug\BitwiseOp.csproj.CoreCompileInputs.cache
+G:\学习2\软件构造基础\第二讲-示例代码\BitwiseOp\obj\Debug\BitwiseOp.exe
+G:\学习2\软件构造基础\第二讲-示例代码\BitwiseOp\obj\Debug\BitwiseOp.pdb

@@ -1,0 +1,12 @@
+C:\Users\jiaxy\source\repos\ch02\OddEvenCount\bin\Debug\OddEvenCount.exe.config
+C:\Users\jiaxy\source\repos\ch02\OddEvenCount\bin\Debug\OddEvenCount.exe
+C:\Users\jiaxy\source\repos\ch02\OddEvenCount\bin\Debug\OddEvenCount.pdb
+C:\Users\jiaxy\source\repos\ch02\OddEvenCount\obj\Debug\OddEvenCount.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\ch02\OddEvenCount\obj\Debug\OddEvenCount.exe
+C:\Users\jiaxy\source\repos\ch02\OddEvenCount\obj\Debug\OddEvenCount.pdb
+G:\学习2\软件构造基础\第二讲-示例代码\OddEvenCount\bin\Debug\OddEvenCount.exe.config
+G:\学习2\软件构造基础\第二讲-示例代码\OddEvenCount\bin\Debug\OddEvenCount.exe
+G:\学习2\软件构造基础\第二讲-示例代码\OddEvenCount\bin\Debug\OddEvenCount.pdb
+G:\学习2\软件构造基础\第二讲-示例代码\OddEvenCount\obj\Debug\OddEvenCount.csproj.CoreCompileInputs.cache
+G:\学习2\软件构造基础\第二讲-示例代码\OddEvenCount\obj\Debug\OddEvenCount.exe
+G:\学习2\软件构造基础\第二讲-示例代码\OddEvenCount\obj\Debug\OddEvenCount.pdb
